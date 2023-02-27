@@ -1,8 +1,8 @@
 package main
 
 import (
-	"firstService/handler"
-	pb "firstService/proto"
+	"github.com/go-micro-v4-demo/firstService/handler"
+	pb "github.com/go-micro-v4-demo/firstService/proto"
 
 	"go-micro.dev/v4"
 	"go-micro.dev/v4/logger"
